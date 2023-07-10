@@ -21,7 +21,7 @@ const BlogSeniorPage = () => {
                       <div className="mr-4">
                         <div className="relative h-10 w-10 overflow-hidden rounded-full">
                           <Image
-                            src="/images/blog/author-02.png"
+                            src="/images/blog/author-03.png"
                             alt="author"
                             fill
                           />
