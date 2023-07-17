@@ -131,7 +131,7 @@ The successful candidates should aim to permanently increase his/her technical e
                   How to apply ? 
                   </h3>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Please, provide us (mail to sekretariat@domain_as_shown_in_your_browser) with some certificates regarding your education, degree e.g.:
+                  Please, provide us (mail to office AT mvs-soft DOT eu) with some certificates regarding your education, degree e.g.:
                   </p>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
